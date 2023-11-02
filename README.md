@@ -129,6 +129,7 @@ Entrez votre choix :
 Entrez une chaîne de caractères en minuscules à vérifier :
 kayak
 kayak est un palindrôme.
+
 (1) - Vérifier si un nombre est pair
 (2) - Vérifier si une chaîne de caractères est un palindrôme
 (3) - Vérifier si un nombre est pair ET est un palindrôme
@@ -140,6 +141,7 @@ Entrez votre choix :
 Entrez un entier à vérifier :
 2442
 2442 est un entier palindrôme pair.
+
 (1) - Vérifier si un nombre est pair
 (2) - Vérifier si une chaîne de caractères est un palindrôme
 (3) - Vérifier si un nombre est pair ET est un palindrôme
