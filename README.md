@@ -75,7 +75,7 @@ Le but de cet exercice est de combiner les deux premiers exercices en un seul pr
 
 > [!NOTE]
 > __Indices__ : La boucle principale du programme devrait toujours se trouver dans le `Main`.
-> Le contenu de la fonction `ProgrammeVerifierPair()` est sensiblement un __copier coller du `Main` de l'exercice #2.__ Même chose pour `ProgrammeVerifierPalindrome()`, mais avec l'exercice #2. La majorité des autres fonctions sont __identiques à celles programmées dans les exercices précédents__.
+> Le contenu de la fonction `ProgrammeVerifierPair()` est sensiblement un __copier coller du `Main` de l'exercice #2.__ Même chose pour `ProgrammeVerifierPalindrome()`, mais avec l'exercice #2. La majorité des autres fonctions sont __identiques à celles programmées dans les exercices précédents__. Un int peut être converti en string grâce à la fonction `toString`. Si vous avez un variable `int entier` par exemple, vous pouvez faire `entier.toSring()` pour le convertir en string.
 
 Voici une liste de fonctions qui pourraient être utiles. Vous pouvez en ajouter des supplémentaires si nécessaire.
 ```c#
