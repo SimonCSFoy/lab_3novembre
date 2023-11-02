@@ -9,13 +9,13 @@ Faites un programme en utilisant les fonctions qui demande à l'utilisateur d'en
 
 Voici une liste de fonctions qui pourraient être utiles. Vous pouvez en ajouter des supplémentaires si nécessaire.
 ```c#
-string InverserTexte(string texteEntree);
+public static string InverserTexte(string texteEntree);
 ```
 ```c#
-string ObtenirStringUtilisateur(string message);
+public static string ObtenirStringUtilisateur(string message);
 ```
 ```c#
-bool EstPalindrome(string texte);
+public static bool EstPalindrome(string texte);
 ```
 
 __Voici un visuel de ce que le programme doit produire :__ 
@@ -46,13 +46,13 @@ Faites un programme en utilisant les fonctions qui demande à l'utilisateur d'en
 
 Voici une liste de fonctions qui pourraient être utiles. Vous pouvez en ajouter des supplémentaires si nécessaire.
 ```c#
-int ObtenirEntierUtilisateur(string message);
+public static int ObtenirEntierUtilisateur(string message);
 ```
 ```c#
-string ObtenirStringUtilisateur(string message);
+public static string ObtenirStringUtilisateur(string message);
 ```
 ```c#
-bool EstPair(int nombre);
+public static bool EstPair(int nombre);
 ```
 
 __Voici un visuel de ce que le programme doit produire :__ 
@@ -79,31 +79,31 @@ Le but de cet exercice est de combiner les deux premiers exercices en un seul pr
 
 Voici une liste de fonctions qui pourraient être utiles. Vous pouvez en ajouter des supplémentaires si nécessaire.
 ```c#
-void ProgrammeVerifierPair()
+public static void ProgrammeVerifierPair()
 ```
 ```c#
-void ProgrammeVerifierPalindrome()
+public static void ProgrammeVerifierPalindrome()
 ```
 ```c#
-void ProgrammeVerifierPalindromeEtPair()
+public static void ProgrammeVerifierPalindromeEtPair()
 ```
 ```c#
-void AfficherMenu()
+public static void AfficherMenu()
 ```
 ```c#
-string InverserTexte(string texteEntree)
+public static string InverserTexte(string texteEntree)
 ```
 ```c#
-string ObtenirStringUtilisateur(string message)
+public static string ObtenirStringUtilisateur(string message)
 ```
 ```c#
-bool EstPalindrome(string texte)
+public static bool EstPalindrome(string texte)
 ```
 ```c#
-int ObtenirEntierUtilisateur(string message)
+public static int ObtenirEntierUtilisateur(string message)
 ```
 ```c#
-bool EstPair(int nombre)
+public static bool EstPair(int nombre)
 ```
 __Voici un visuel de ce que le programme doit produire :__ 
 ```console
