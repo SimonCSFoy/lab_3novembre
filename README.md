@@ -9,7 +9,7 @@ Faites un programme en utilisant les fonctions qui demande à l'utilisateur d'en
 
 Voici une liste de fonctions qui pourraient être utiles. Vous pouvez en ajouter des supplémentaires si nécessaire.
 ```c#
-string InverserTexte(string texteEntree;
+string InverserTexte(string texteEntree);
 ```
 ```c#
 string ObtenirStringUtilisateur(string message);
