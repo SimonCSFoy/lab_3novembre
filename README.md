@@ -115,9 +115,9 @@ __Voici un visuel de ce que le programme doit produire :__
 Entrez votre choix :
 1
 
-Entrez une chaîne de caractères en minuscules à vérifier :
-kayak
-kayak est un palindrôme.
+Entrez un nombre entier :
+5884
+Le nombre 5884 est pair
 (1) - Vérifier si un nombre est pair
 (2) - Vérifier si une chaîne de caractères est un palindrôme
 (3) - Vérifier si un nombre est pair ET est un palindrôme
@@ -126,9 +126,9 @@ kayak est un palindrôme.
 Entrez votre choix :
 2
 
-Entrez un nombre entier :
-5884
-Le nombre 5884 est pair
+Entrez une chaîne de caractères en minuscules à vérifier :
+kayak
+kayak est un palindrôme.
 (1) - Vérifier si un nombre est pair
 (2) - Vérifier si une chaîne de caractères est un palindrôme
 (3) - Vérifier si un nombre est pair ET est un palindrôme
