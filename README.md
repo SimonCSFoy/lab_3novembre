@@ -70,7 +70,7 @@ Entrez un nombre entier :
 Le nombre 43287592 est pair
 ```
 ---
-## Exercice #3 - Palindrôme pair (Défi!)
+## Exercice #3 - Palindrôme pair
 Le but de cet exercice est de combiner les deux premiers exercices en un seul programme. Le logiciel affiche un menu principal avec quatre options à l'utilisateur (voir plus bas pour le visuel). Le choix #1 exécute l'exercice #1 avec comme seule différence qu'il l'exécute une seule fois et revient ensuite au menu principal. Même principe pour le choix #2, mais avec l'exercice #2. L'option #3 elle est nouvelle et exécute un programme qui valide si le nombre entré est un nombre pair ET un palindrôme et affiche le résultat. L'option #4 est pour quitter le programme.
 
 > [!NOTE]
