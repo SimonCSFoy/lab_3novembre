@@ -38,7 +38,7 @@ aa bb cc cc bb aa est un palindrôme.
 ```
 ---
 ## Exercice #2 - Nombre pair
-Faites un programme en utilisant les fonctions qui demande à l'utilisateur d'entrer un __nombre entier__.. Votre programme doit vérifier si le nombre entré est un nombre pair et afficher le résultat. Il __doit toujours le redemander à l'utilisateur__ tant qu'il n'appuie pas sur le bouton pour fermer la fenêtre du terminal.
+Faites un programme en utilisant les fonctions qui demande à l'utilisateur d'entrer un __nombre entier__. Votre programme doit vérifier si le nombre entré est un nombre pair et afficher le résultat. Il __doit toujours le redemander à l'utilisateur__ tant qu'il n'appuie pas sur le bouton pour fermer la fenêtre du terminal.
 
 > [!NOTE]
 > __Indices__ : La boucle principale du programme devrait se trouver dans le `Main`.
