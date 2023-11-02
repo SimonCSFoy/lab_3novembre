@@ -38,7 +38,7 @@ aa bb cc cc bb aa est un palindrôme.
 ```
 ---
 ## Exercice #2 - Nombre pair
-Faites un programme en utilisant les fonctions qui demande à l'utilisateur d'entrer un __nombre entier de dix caractères maximum__ . Votre programme doit vérifier si le nombre entré est un nombre pair et afficher le résultat. Il __doit toujours le redemander à l'utilisateur__ tant qu'il n'appuie pas sur le bouton pour fermer la fenêtre du terminal.
+Faites un programme en utilisant les fonctions qui demande à l'utilisateur d'entrer un __nombre entier__.. Votre programme doit vérifier si le nombre entré est un nombre pair et afficher le résultat. Il __doit toujours le redemander à l'utilisateur__ tant qu'il n'appuie pas sur le bouton pour fermer la fenêtre du terminal.
 
 > [!NOTE]
 > __Indices__ : La boucle principale du programme devrait se trouver dans le `Main`.
@@ -57,22 +57,17 @@ bool EstPair(int nombre);
 
 __Voici un visuel de ce que le programme doit produire :__ 
 ```console
-Entrez un nombre entier (10 caractères maximum) :
+Entrez un nombre entier :
 10
 Le nombre 10 est pair
 
-Entrez un nombre entier (10 caractères maximum) :
+Entrez un nombre entier :
 11
 Le nombre 11 n'est pas pair
 
-Entrez un nombre entier (10 caractères maximum) :
+Entrez un nombre entier :
 43287592
 Le nombre 43287592 est pair
-
-Entrez un nombre entier (10 caractères maximum) :
-4324234234234324234
-
-Entrez un nombre entier (10 caractères maximum) :
 ```
 ---
 ## Exercice #3 - Palindrôme pair (Défi!)
@@ -131,7 +126,7 @@ kayak est un palindrôme.
 Entrez votre choix :
 2
 
-Entrez un nombre entier (10 caractères maximum) :
+Entrez un nombre entier :
 5884
 Le nombre 5884 est pair
 (1) - Vérifier si un nombre est pair
